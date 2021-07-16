@@ -68,5 +68,7 @@ namespace QuanLyVanBan.Controllers
             Session[CommonConstant.USER_SESSION] = null;
             return Redirect("/");
         }
+        //Đăng xuất
+        //Đăng xuất
     }
 }
